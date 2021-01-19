@@ -10,7 +10,7 @@
 
 
 
-```javascript
+```
 
  $ apt update && apt upgrade
 
